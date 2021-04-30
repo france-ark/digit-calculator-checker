@@ -1,0 +1,14 @@
+{
+  "name": "digit-checker",
+  "version": "1.0.0",
+  "description": "G-13 last digit checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "france patrick",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
