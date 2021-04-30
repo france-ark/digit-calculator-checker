@@ -1,4 +1,4 @@
-# Simple digit checker calculator using NodeJS
+# Simple check digit calculator using NodeJS
 
 Get the last digit of a barcode number.
 
